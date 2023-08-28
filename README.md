@@ -10,3 +10,5 @@ A small react app that manage your packing list for your upcoming trip with the 
 - Toggle packed status
 - Sort by order, description, or packed status
 - Clear the entire list
+
+preview: `https://packyourlist.netlify.app`
